@@ -1,7 +1,7 @@
 
 <img src="https://img.shields.io/badge/jywleah1101%40yonsei.ac.kr-%23EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 
-### 👋Hi there!
+### 👋Hi there! I am a yonsei university student!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jywleah1101&show_icons=true&theme=swift)
 
