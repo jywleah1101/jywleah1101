@@ -1,4 +1,9 @@
-### Hi there 👋
+
+<img src="https://img.shields.io/badge/jywleah1101%40yonsei.ac.kr-%23EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+
+### 👋Hi there!
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jywleah1101&show_icons=true&theme=swift)
 
 <!--
 **jywleah1101/jywleah1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
